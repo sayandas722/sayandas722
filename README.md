@@ -6,7 +6,7 @@
 <img align="right" alt="Coding" width="400" src="https://miro.medium.com/max/1360/1*IRGHmiGsa16stedQvIaZfw.gif">
 
 
-<p align="left"> <img src="https://komarev.com/ghpvc/?username=sayandas722&label=Profile%20views&color=0e75b6&style=flat" alt="sayandas722" /> </p>
+
 
 <p align="left"><a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=sayandas722" alt="sayandas722" /></a> </p>
 

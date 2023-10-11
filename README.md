@@ -1,5 +1,6 @@
 
-[![@sayandas's Holopin board](https://holopin.me/sayandas)](https://holopin.io/@sayandas)
+[![An image of @sayandas's ](https://holopin.me/sayandas)](https://holopin.io/@sayandas)
+
 <h1 align="center">Hi Gits👋, I'm SAYAN DAS</h1>
 <h3 align="center">A passionate JAVA coder from India</h3>
 <img align="right" alt="Coding" width="400" src="https://miro.medium.com/max/1360/1*IRGHmiGsa16stedQvIaZfw.gif">
